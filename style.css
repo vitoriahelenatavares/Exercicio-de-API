@@ -1,0 +1,21 @@
+body{
+    background-image: url(image/relogio-de-bolso-vintage-no-conceito-de-tempo-de-fundo-magico_195703-1625.avif);
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+.container{
+    width: 60vw;
+    height: 80vh;
+    background-color: rgb(94, 114, 168);
+    margin: auto;
+    margin-top: 10vh;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-image: none;
+    border: 10px;
+    font-size: 30px;
+}
